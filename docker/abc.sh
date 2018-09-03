@@ -1,0 +1,1 @@
+docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=unix$DISPLAY -v /dev/snd:/dev/snd -v $HOME/Projects:/Users/shaw/Projects/ myarch

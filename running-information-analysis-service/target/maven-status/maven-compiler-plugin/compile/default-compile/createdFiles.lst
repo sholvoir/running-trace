@@ -1,0 +1,5 @@
+cn/micit/domain/RunningInformation.class
+cn/micit/RunningInformationAnalysisServiceApplication.class
+cn/micit/domain/RunningInformationRepository.class
+cn/micit/domain/RunningInformation$HealthWarningLevel.class
+cn/micit/rest/RunningInformationAnalysisRestController.class

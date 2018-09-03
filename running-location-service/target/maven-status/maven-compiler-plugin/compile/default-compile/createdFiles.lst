@@ -1,0 +1,10 @@
+cn/micit/domain/Location.class
+cn/micit/rest/RunningUploadRestController.class
+cn/micit/service/LocationService.class
+cn/micit/domain/UnitInfo.class
+cn/micit/domain/Location$GpsStatus.class
+cn/micit/domain/Location$RunnerMovementType.class
+cn/micit/domain/LocationRepository.class
+cn/micit/service/impl/LocationServiceImpl.class
+cn/micit/domain/MedicalInfo.class
+cn/micit/RunningLocationServiceApplication.class

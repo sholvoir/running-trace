@@ -1,0 +1,30 @@
+Q1. What is Servlet Container?
+A1: A servlet container (web container) is the component of a web server that interacts with Java servlets. A servlet container 
+is responsible for managing the lifecycle of servlets, mapping a URL to a particular servlet and ensuring that the URL requester 
+has the correct access-rights.
+
+Q2. What is dependency injection / inversion of control?
+A2: In software engineering, dependency injection is a technique whereby one object (or static method) supplies the dependencies 
+of another object. A dependency is an object that can be used (a service). An injection is the passing of a dependency to a dependent 
+object (a client) that would use it. The service is made part of the client's state.[1] Passing the service to the client, rather than 
+allowing a client to build or find the service, is the fundamental requirement of the pattern.
+
+Q3. How to do Dependency Injection in Spring?
+A3: 
+@Inject
+public MyComponent(Aaa aaa){}
+
+Q4. What problems are Spring Boot trying to solve?
+A4: (1)Create stand-alone Spring applications
+(2)Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)
+(3)Provide opinionated 'starter' POMs to simplify your Maven configuration
+(4)Automatically configure Spring whenever possible
+(5)Provide production-ready features such as metrics, health checks and externalized configuration
+(6)Absolutely no code generation and no requirement for XML configuration
+
+Q5: What is Spring Data?
+A5: Spring Data’s mission is to provide a familiar and consistent, Spring-based programming model for data access while still retaining 
+the special traits of the underlying data store.It makes it easy to use data access technologies, relational and non-relational 
+databases, map-reduce frameworks, and cloud-based data services. This is an umbrella project which contains many subprojects that 
+are specific to a given database. The projects are developed by working together with many of the companies and developers that are 
+behind these exciting technologies.

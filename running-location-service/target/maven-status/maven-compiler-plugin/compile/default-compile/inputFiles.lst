@@ -1,0 +1,8 @@
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/RunningLocationServiceApplication.java
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/domain/Location.java
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/domain/LocationRepository.java
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/domain/UnitInfo.java
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/domain/MedicalInfo.java
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/rest/RunningUploadRestController.java
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/service/impl/LocationServiceImpl.java
+/Users/shaw/Projects/running-location-service/src/main/java/cn/micit/service/LocationService.java
